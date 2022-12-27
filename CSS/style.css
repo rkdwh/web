@@ -1,0 +1,25 @@
+body{
+    background-color: #333333;
+    color: #999999;
+}
+div{
+    color: wheat;
+}
+#TR0YESIVAN{
+    color: red;
+}
+.list{
+    color: aqua;
+}
+li:hover{
+    background-color: rgba(55, 155, 200, 0.9);
+    color: rgb(55, 100, 20);
+}
+tr:hover{
+    background-color: antiquewhite;
+    color: black;
+}
+#btn{
+    background-color: darkblue;
+    color: aliceblue;
+}
